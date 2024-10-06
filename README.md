@@ -1,6 +1,8 @@
 <h1 align="center">Hola Comunidad 👋, Soy Manuel Harris</h1>
 <h3 align="center">un prolijo programador de software especializado en el desarrollo back-end (servidores y bases de datos)</h3>
 
+- 🌱 Actualmente me encuentro estudiando para técnico en programación en la **Universidad Tecnológica Nacional**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/manuel-harris-83a365265/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/manuel-harris-83a365265/" height="30" width="40" /></a>
