@@ -3,7 +3,7 @@
 
 - 🌱 Actualmente me encuentro estudiando para técnico en programación en la **Universidad Tecnológica Nacional**
 
-<h3 align="left">Conmecta conmigo:</h3>
+<h3 align="left">Conecta conmigo:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/manuel-harris-83a365265/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="manuel-harris-83a365265/" height="30" width="40" /></a>
 </p>
