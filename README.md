@@ -3,7 +3,7 @@
 
 - 🌱 Técnico en Programación de la **Universidad Tecnológica Nacional**
 
-- 👨‍💻 Investigando acerca de [Ciberseguridad e Inteligencia Artificial](Ciberseguridad e Inteligencia Artificial)
+- 👨‍💻 Investigando acerca de Ciberseguridad e Inteligencia Artificial
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
