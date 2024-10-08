@@ -35,7 +35,10 @@ const aboutMe = {
         tecnología: "Docker",
         areas: ["Inteligencia Artificial", "Ciber-Seguridad", "Robótica"]
     },
-    contacto: "harrisdm.dev@gmail.com",
+    contacto: {
+        email: "harrisdm.dev@gmail.com",
+        linkedIn: "https://www.linkedin.com/in/manuel-harris-83a365265/"
+    }
     pasatiempos: ["Deportes", "Música", "Coctelería"]
 };
 ```
