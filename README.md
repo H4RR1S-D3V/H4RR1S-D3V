@@ -11,8 +11,9 @@
 <div align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Programador+Back-End+(Node.JS);Administrador+de+Base+de+Datos+(SQL);Desarrollador+de+Software+(C%2B%2B)" alt="Typing SVG" /></a>
  </div>
-
-<img src="img/Portada.jpg" >
+<section align="center">
+ <img src="img/Portada.jpg" >
+</section>
 
 ```javascript
 const sobreMi = {
