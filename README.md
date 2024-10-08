@@ -15,7 +15,7 @@
 <img src="img/banner.jpeg" >
 
 ```javascript
-const aboutMe = {
+const sobreMi = {
     nombre: "Manuel Harris",
     edad: 24,
     especialidades: ["Back-End", "Base de Datos"],
@@ -28,14 +28,15 @@ const aboutMe = {
         versionados: ["GIT", "GitHub"],
     },
     habilidades: {
-        tecnicas: ["APIRest", "POO", "Administracion BDD"],
+        técnicas: ["APIRest", "P.O.O.", "Administración B.D.D."],
         blandas: ["Liderazgo", "Prolijidad", "Trabajo en Equipo", "SCRUM"]
     },
     aprendiendo: {
         lenguaje: "Python",
         tecnología: "Docker",
-        areas: ["Inteligencia Artificial", "Ciber-Seguridad", "Robótica"]
+        area: "Ciber-Seguridad",
     },
+    otrosIntereses: ["Robótica", "Inteligencia Artificial", "Astronomía"],
     contacto: {
         email: "harrisdm.dev@gmail.com",
         linkedIn: "https://www.linkedin.com/in/manuel-harris-83a365265/"
@@ -44,7 +45,8 @@ const aboutMe = {
 };
 ```
 
-- 👨‍💻 Técnico en Programación de la **Universidad Tecnológica Nacional**
+- 📚 Técnico en Programación de la **Universidad Tecnológica Nacional**
+- 👨‍💻 Desarrollador Full-Stack de **SoyHenry**
 
 <h3 align="left">Contacto:</h3>
 <p align="left">
