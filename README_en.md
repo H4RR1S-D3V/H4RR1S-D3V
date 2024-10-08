@@ -35,14 +35,17 @@ const aboutMe = {
         technology: "Docker",
         fields: ["Artificial Intelligence", "Cybersecurity", "Robotics"]
     },
-    contact: "harrisdm.dev@gmail.com",
+    contact: {
+        email: "harrisdm.dev@gmail.com",
+        linkedIn: "https://www.linkedin.com/in/manuel-harris-83a365265/"
+    }
     hobbies: ["Sports", "Music"]
 };
 ```
 
 - 👨‍💻 Programming Technician from the National Technological University
 
-<h3 align="left">contact:</h3>
+<h3 align="left">Contact:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/manuel-harris-83a365265//"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="mailto:harrisdm.dev@gmail.com"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
