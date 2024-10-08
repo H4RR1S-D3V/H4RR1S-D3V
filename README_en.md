@@ -1,7 +1,10 @@
 <table align="right">
- <tr><td><a href="README_en.md"><img src="en-flag.png" height="13">English</a></td></tr>
- <tr><td><a href="README.md"><img src="es-flag.png" height="13">Español</a></td></tr>
+ <td><a href="README_en.md"><img src="en-flag.png" height="13">English</a></td>
+ <td><a href="README.md"><img src="es-flag.png" height="13">Español</a></td>
 </table>
+
+<br/>
+<br/>
 
 <h1 align="center">Hello World 👋</h1>
 
