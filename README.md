@@ -32,6 +32,7 @@ const aboutMe = {
         tecnología: "Docker",
         areas: ["Inteligencia Artificial", "Ciber-Seguridad", "Robótica"]
     },
+    contacto: "harrisdm.dev@gmail.com",
     pasatiempos: ["Deportes", "Música"]
 };
 ```
