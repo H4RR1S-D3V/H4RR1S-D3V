@@ -37,7 +37,7 @@ const aboutMe = {
         technology: "Docker",
         field: "Cybersecurity", 
     },
-    otherInterests: ["Artificial Intelligence", "Robotics"],
+    otherInterests: ["Artificial Intelligence", "Robotics", "Astronomy"],
     contact: {
         email: "harrisdm.dev@gmail.com",
         linkedIn: "https://www.linkedin.com/in/manuel-harris-83a365265/"
