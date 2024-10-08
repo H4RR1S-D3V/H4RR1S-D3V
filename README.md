@@ -1,6 +1,11 @@
 <h1 align="center">Hola Comunidad 👋, Soy Manuel Harris</h1>
 <h3 align="center">un prolijo programador de software especializado en el desarrollo back-end (servidores y bases de datos)</h3>
 
+<table align="right">
+ <tr><td><a href="README_en.md"><img src="images/us-flag.png" height="13">English</a></td></tr>
+ <tr><td><a href="README.md"><img src="images/es-flag.png" height="13">Español</a></td></tr>
+</table>
+
 - 🌱 Técnico en Programación de la **Universidad Tecnológica Nacional**
 
 - 👨‍💻 Investigando acerca de Ciberseguridad e Inteligencia Artificial
