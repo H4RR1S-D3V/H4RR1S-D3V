@@ -34,17 +34,19 @@ const aboutMe = {
     currentlyLearning: {
         language: "Python",
         technology: "Docker",
-        fields: ["Artificial Intelligence", "Cybersecurity", "Robotics"]
+        field: "Cybersecurity", 
     },
+    otherInterests: ["Artificial Intelligence", "Robotics"],
     contact: {
         email: "harrisdm.dev@gmail.com",
         linkedIn: "https://www.linkedin.com/in/manuel-harris-83a365265/"
     },
-    hobbies: ["Sports", "Music"]
+    hobbies: ["Sports", "Music", "Cocktail"]
 };
 ```
 
-- 👨‍💻 Programming Technician from the National Technological University
+- 📚 Programming Technician from the National Technological University
+- 👨‍💻 Full-Stack Developer from **SoyHenry**
 
 <h3 align="left">Contact:</h3>
 <p align="left">
