@@ -1,6 +1,6 @@
 <table align="right">
- <td><a href="README_en.md"><img src="en-flag.png" height="13">English</a></td>
- <td><a href="README.md"><img src="es-flag.png" height="13">Español</a></td>
+ <td><a href="README_en.md"><img src="img/en-flag.png" height="13"> English</a></td>
+ <td><a href="README.md"><img src="img/es-flag.png" height="13"> Español</a></td>
 </table>
 
 <br/>
@@ -9,9 +9,10 @@
 <h1 align="center">Hello World 👋</h1>
 
 <div align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Back-End+Developer+(Node.Js);Data+Base+Administrator+(SQL);Software+developer+(C%2B%2B)" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Back-End+Developer+(Node.Js);Database+Administrator+(SQL);Software+developer+(C%2B%2B)" alt="Typing SVG" /></a>
  </div>
 
+<img src="img/banner.jpeg">
 
 ```javascript
 const aboutMe = {
