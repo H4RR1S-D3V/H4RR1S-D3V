@@ -19,17 +19,17 @@
 const aboutMe = {
     name: "Manuel Harris",
     age: 24,
-    specialties: ["Back-End", "Databases"],
-    languages: ["Javascript", "C++", "SQL"],
+    specialties: ["Back-End", "Databases", "Automation"],
+    languages: ["Javascript", "C++", "C#", "SQL"],
     technologies: {
         back: ["Node.js", "Express"],
         front: ["React", "Redux"],
         ORM: "Sequelize",
-        databases: ["PostgreSQL", "FireStore"],
+        databases: ["PostgreSQL", "SQLServer", "MongoDB", "FireStore"],
         versionControl: ["GIT", "GitHub"],
     },
     skills: {
-        tech: ["APIRest", "OOP", "Database Administration"],
+        tech: ["APIRest", "OOP", "Database Administration", "SAP"],
         soft: ["Leadership", "Attention to Detail", "Teamwork", "SCRUM"]
     },
     currentlyLearning: {
