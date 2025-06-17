@@ -19,17 +19,17 @@
 const sobreMi = {
     nombre: "Manuel Harris",
     edad: 24,
-    especialidades: ["Back-End", "Base de Datos"],
-    lenguajes: ["Javascript", "C++", "SQL"],
+    especialidades: ["Back-End", "Base de Datos", "Automatización"],
+    lenguajes: ["Javascript", "C++", "C#", "SQL"],
     tecnologías: {
         back: ["Node.js", "Express"],
         front: ["React", "Redux"],
         ORM: "Sequelize",
-        baseDeDatos: ["PostgreSQL", "FireStore"],
+        baseDeDatos: ["PostgreSQL", "SQLServer", "FireStore", "MongoDB"],
         versionados: ["GIT", "GitHub"],
     },
     habilidades: {
-        técnicas: ["APIRest", "P.O.O.", "Administración B.D.D."],
+        técnicas: ["APIRest", "P.O.O.", "Administración B.D.D.", "SAP"],
         blandas: ["Liderazgo", "Prolijidad", "Trabajo en Equipo", "SCRUM"]
     },
     aprendiendo: {
