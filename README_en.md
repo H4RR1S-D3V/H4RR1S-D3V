@@ -20,7 +20,7 @@ const aboutMe = {
     name: "Manuel Harris",
     age: 24,
     specialties: ["Back-End", "Databases", "Automation"],
-    languages: ["Javascript", "C++", "C#", "SQL"],
+    languages: ["Java", "Javascript", "C++", "C#", "SQL"],
     technologies: {
         back: ["Node.js", "Express"],
         front: ["React", "Redux"],
