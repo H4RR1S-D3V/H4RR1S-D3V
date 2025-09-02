@@ -20,7 +20,7 @@ const sobreMi = {
     nombre: "Manuel Harris",
     edad: 24,
     especialidades: ["Back-End", "Base de Datos", "Automatización"],
-    lenguajes: ["Javascript", "C++", "C#", "SQL"],
+    lenguajes: ["Java", "Javascript", "C++", "C#", "SQL"],
     tecnologías: {
         back: ["Node.js", "Express"],
         front: ["React", "Redux"],
